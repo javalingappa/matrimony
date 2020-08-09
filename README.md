@@ -34,8 +34,8 @@ Community matrimony website
  
  #Developers 
  
-        UI  - Vatsa
-        Backend - Java
+    UI  - Vatsa
+    Backend - Java
 
 
 
